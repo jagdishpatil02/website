@@ -19,14 +19,14 @@ export const metadata = {
   title: "Jagdish Patil",
   description:
     "Welcome to Jagdish Patil's portfolio. I am a software engineer with expertise in web development. Explore my projects and get in touch!",
+  icons: {
+    icon: "/favicon.ico", // /public path
+  },
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <head>
-        <link rel="icon" href="/favicon.ico" />
-      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable}  ${InterMono.variable} antialiased`}
       >
