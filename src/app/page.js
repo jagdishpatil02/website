@@ -81,7 +81,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className="relative inline-block  group "
           >
-            My (side) projects
+            (Side) Projects
             <span className="absolute left-0 bottom-0 h-0.5 w-full bg-[#222] transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300"></span>
           </a>
         </div>
