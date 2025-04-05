@@ -76,12 +76,12 @@ export default function Home() {
         </p>
         <div className="relative group inline-block">
           <a
-            href="https://jagdishpatil02.github.io/sideprojects/"
+            href="https://jagdishpatil02.github.io"
             target="_blank"
             rel="noopener noreferrer"
             className="relative inline-block  group "
           >
-            (Side) Projects
+            Work
             <span className="absolute left-0 bottom-0 h-0.5 w-full bg-[#222] transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300"></span>
           </a>
         </div>
