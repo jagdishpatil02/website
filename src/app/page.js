@@ -86,14 +86,13 @@ export default function Home() {
           </a>
         </div>
 
-         <div className="relative group inline-block">
+        <div className="relative group inline-block">
           <a
             href="/Jagdish_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             download
-
-            className="relative inline-block  group mx-4 "
+            className="relative inline-block  group mx-4"
           >
             Resume
             <span className="absolute left-0 bottom-0 h-0.5 w-full bg-[#222] transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300"></span>
